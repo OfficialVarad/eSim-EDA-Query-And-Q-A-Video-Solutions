@@ -22,23 +22,50 @@ The purpose of this repository is to make it easier for users to **find explanat
 
 ---
 
-## Topics Covered 
-Topics included in this repository:
+## Topics Covered
 
-1. How to Select the Workspace on eSim 2.5
-https://youtu.be/s-S-4XaCnXk
+<table>
+<tr>
+<td align="center">
+<b>1. Select Workspace</b><br>
+<a href="https://youtu.be/s-S-4XaCnXk">
+<img src="https://img.youtube.com/vi/s-S-4XaCnXk/mqdefault.jpg" width="250">
+</a>
+</td>
 
-2. How to Create a Sub-Circuit on eSim 2.5
-https://youtu.be/chL7L1XRG-E
+<td align="center">
+<b>2. Create Sub-Circuit</b><br>
+<a href="https://youtu.be/chL7L1XRG-E">
+<img src="https://img.youtube.com/vi/chL7L1XRG-E/mqdefault.jpg" width="250">
+</a>
+</td>
 
-3. How to Use the Symbol Editor on eSim 2.5
-https://youtu.be/v5MLcT0WUgw
+<td align="center">
+<b>3. Symbol Editor</b><br>
+<a href="https://youtu.be/v5MLcT0WUgw">
+<img src="https://img.youtube.com/vi/v5MLcT0WUgw/mqdefault.jpg" width="250">
+</a>
+</td>
+</tr>
 
-4. How to Create a Test Circuit Environment on eSim 2.5
-https://youtu.be/HOskwWOzv-4
+<tr>
+<td align="center">
+<b>4. Test Circuit Environment</b><br>
+<a href="https://youtu.be/HOskwWOzv-4">
+<img src="https://img.youtube.com/vi/HOskwWOzv-4/mqdefault.jpg" width="250">
+</a>
+</td>
 
-5. How to Set Parameters on eSim 2.5
-https://youtu.be/sJMduEtgdKg
+<td align="center">
+<b>5. Set Parameters</b><br>
+<a href="https://youtu.be/sJMduEtgdKg">
+<img src="https://img.youtube.com/vi/sJMduEtgdKg/mqdefault.jpg" width="250">
+</a>
+</td>
+
+<td></td>
+</tr>
+</table>
 
 
 
