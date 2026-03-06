@@ -22,14 +22,25 @@ The purpose of this repository is to make it easier for users to **find explanat
 
 ---
 
-## Topics Covered
-
+## Topics Covered 
 Topics included in this repository:
-1. How to Create a Contributor account on eSim Portal 
-2. How to Create a first project and draw a first schematic in eSim 2.5
-3. How to Create a Subcircuit schematic in eSim 2.5
-4. How to Create a Symbol for schematic in eSim 2.5
-5. How to Create a Test circuit to test the developed subcircuit/IC in eSim 2.5
+
+1. How to Select the Workspace on eSim 2.5
+https://youtu.be/s-S-4XaCnXk
+
+2. How to Create a Sub-Circuit on eSim 2.5
+https://youtu.be/chL7L1XRG-E
+
+3. How to Use the Symbol Editor on eSim 2.5
+https://youtu.be/v5MLcT0WUgw
+
+4. How to Create a Test Circuit Environment on eSim 2.5
+https://youtu.be/HOskwWOzv-4
+
+5. How to Set Parameters on eSim 2.5
+https://youtu.be/sJMduEtgdKg
+
+
 
 New query solutions will be added over time.
 
