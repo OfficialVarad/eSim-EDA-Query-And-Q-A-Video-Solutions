@@ -31,14 +31,16 @@ The purpose of this repository is to make it easier for users to **find explanat
 <b>3. Create Sub-Circuit</b><br>
 <a href="https://drive.google.com/file/d/1c_VtRhQlJJYvBRWKva8MDo9EVgm0sgqT/view?usp=sharing">Watch Video</a>
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <b>4. Symbol Editor</b><br>
 <a href="https://drive.google.com/file/d/1sdXxRXRYTwsB1ixCM-A8i1Cro4SEQmjg/view?usp=sharing">Watch Video</a>
 </td>
-</tr>
 
-<tr>
+
+
 <td align="center">
 <b>5. Test Circuit Environment</b><br>
 <a href="https://drive.google.com/file/d/1TdAL-SbohrXzBOxMWOYIStKzmL_j7CBV/view?usp=sharing">Watch Video</a>
