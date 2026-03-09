@@ -26,19 +26,19 @@ The purpose of this repository is to make it easier for users to **find explanat
 <tr>
 <td align="center">
 <b>1. Select Workspace</b><br>
-<a href="[https://youtu.be/s-S-4XaCnXk](https://drive.google.com/file/d/1vPlFBJZZIzuEFQaOesyqNfZZNvI-4tMn/view?usp=sharing)">
+<a href="[https://drive.google.com/file/d/1vPlFBJZZIzuEFQaOesyqNfZZNvI-4tMn/view?usp=sharing]">
 </a>
 </td>
 
 <td align="center">
 <b>2. Create Sub-Circuit</b><br>
-<a href="[https://youtu.be/chL7L1XRG-E](https://drive.google.com/file/d/1c_VtRhQlJJYvBRWKva8MDo9EVgm0sgqT/view?usp=sharing)">
+<a href="[https://drive.google.com/file/d/1c_VtRhQlJJYvBRWKva8MDo9EVgm0sgqT/view?usp=sharing]">
 </a>
 </td>
 
 <td align="center">
 <b>3. Symbol Editor</b><br>
-<a href="[https://youtu.be/v5MLcT0WUgw](https://drive.google.com/file/d/1sdXxRXRYTwsB1ixCM-A8i1Cro4SEQmjg/view?usp=sharing)">
+<a href="[https://drive.google.com/file/d/1sdXxRXRYTwsB1ixCM-A8i1Cro4SEQmjg/view?usp=sharing]">
 </a>
 </td>
 </tr>
@@ -46,13 +46,13 @@ The purpose of this repository is to make it easier for users to **find explanat
 <tr>
 <td align="center">
 <b>4. Test Circuit Environment</b><br>
-<a href="[https://youtu.be/HOskwWOzv-4](https://drive.google.com/file/d/1TdAL-SbohrXzBOxMWOYIStKzmL_j7CBV/view?usp=sharing)">
+<a href="[https://drive.google.com/file/d/1TdAL-SbohrXzBOxMWOYIStKzmL_j7CBV/view?usp=sharing]">
 </a>
 </td>
 
 <td align="center">
 <b>5. Set Parameters</b><br>
-<a href="[https://youtu.be/sJMduEtgdKg](https://drive.google.com/file/d/1-RhF1dwHQyABJ0H51mfSMP4t5hxO0zil/view?usp=sharing)">
+<a href="[https://drive.google.com/file/d/1-RhF1dwHQyABJ0H51mfSMP4t5hxO0zil/view?usp=sharing]">
 </a>
 </td>
 
