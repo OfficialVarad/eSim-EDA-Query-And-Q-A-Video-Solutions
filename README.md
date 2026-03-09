@@ -49,7 +49,6 @@ The purpose of this repository is to make it easier for users to **find explanat
 <a href="https://drive.google.com/file/d/1-RhF1dwHQyABJ0H51mfSMP4t5hxO0zil/view?usp=sharing">Watch Video</a>
 </td>
 
-<td></td>
 </tr>
 </table>
 
